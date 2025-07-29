@@ -14,9 +14,8 @@ Automated tests for the Dream Journal website using Selenium and Python.
    git clone https://github.com/yourusername/dream-journal-tests.git
    cd dream-journal-tests
 2.Install dependencies:
-      bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
+
 3.For AI tests, create a .env file:
-    text
-    OPENAI_API_KEY=your_api_key_here
-   
+OPENAI_API_KEY=your_api_key_here
+
