@@ -1,8 +1,0 @@
-Run all tests:
-
-bash
-python run_tests.py
-Run specific tests:
-
-bash
-python -m pytest tests/test_home_page.py -v
